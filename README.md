@@ -4,4 +4,4 @@ Mini ATM System In C Language.
 This is simple atm machine functionality program in c language
 
 
-This is mohit
+This is mohit prince
