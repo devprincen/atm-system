@@ -41,8 +41,8 @@ Exits the program.
 ## Example Output
 ```plaintext
 Welcome to the Mini ATM System!
-Please enter your name: John
-Hello, John! Please choose an option:
+Please enter your name: User
+Hello, User! Please choose an option:
 1. Balance Enquiry
 2. Withdrawal
 3. Deposit
@@ -60,7 +60,7 @@ Enter the amount to deposit: 500
 Deposit successful! Your new balance is: 1300
 
 Enter your choice: 4
-Thank you for using the Mini ATM System. Goodbye, John!
+Thank you for using the Mini ATM System. Goodbye, User!
 ```
 
 ## How to Run
@@ -68,7 +68,7 @@ Thank you for using the Mini ATM System. Goodbye, John!
 2. Ensure you have Python installed on your system.
 3. Run the script using the command:
    ```bash
-   C mini_atm.py
+   C mini_atm.c
    ```
 
 ## Contributing
