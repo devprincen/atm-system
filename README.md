@@ -68,7 +68,7 @@ Thank you for using the Mini ATM System. Goodbye, John!
 2. Ensure you have Python installed on your system.
 3. Run the script using the command:
    ```bash
-   python mini_atm.py
+   C mini_atm.py
    ```
 
 ## Contributing
