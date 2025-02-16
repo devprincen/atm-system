@@ -65,7 +65,7 @@ Thank you for using the Mini ATM System. Goodbye, User!
 
 ## How to Run
 1. Clone the repository from GitHub.
-2. Ensure you have Python installed on your system.
+2. Ensure you have C installed on your system.
 3. Run the script using the command:
    ```bash
    C mini_atm.c
